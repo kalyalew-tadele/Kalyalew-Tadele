@@ -1,16 +1,15 @@
-## Hi there 👋
+ -Hi, I'm Kal 👋
+I'm a beginner web developer passionate about building fun and creative projects! 🎨
 
-<!--
-**kalyalew-tadele/kalyalew-tadele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Skills
+- HTML
+- CSS
+- JavaScript
 
-Here are some ideas to get you started:
+🌟 Projects
+- [Moodmate](link to your hosted project)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 📫 Contact Me
+- Email: kalyalewtadele23@gmail.com
+- LinkedIn: [yourlinkedinprofile
+](https://www.linkedin.com/in/kalyalew-tadele-7952a92b0/)
