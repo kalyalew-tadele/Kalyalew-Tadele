@@ -7,7 +7,7 @@ I'm a beginner web developer passionate about building fun and creative projects
 - JavaScript
 
 🌟 Projects
-- [Moodmate](link to your hosted project)
+- [MoodMate https://kalyalew-tadele.github.io/Modemate/)
 
  📫 Contact Me
 - Email: kalyalewtadele23@gmail.com
