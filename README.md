@@ -8,6 +8,7 @@ I'm a beginner web developer passionate about building fun and creative projects
 
 🌟 Projects
 - [MoodMate https://kalyalew-tadele.github.io/Modemate/)
+
 -[DailyMix https://kalyalew-tadele.github.io/Daily-Mix/)
 
  📫 Contact Me
